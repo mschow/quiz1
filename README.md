@@ -25,8 +25,7 @@ on the #git channel.
 
 You must have `node` and `npm` installed on your machine. You can install `node`
 directly from [here](https://nodejs.org/), but let me know if you want to know
-how to better manage your node installation by sending me a message on the
-#node slack channel.
+how to better manage your node installation by sending me a message on the #node slack channel.
 
 Once that's done, you'll want to fork this repo to your own. In the top right
 of this page, there should be a `Fork` button. Do that and fork it to your
