@@ -8,6 +8,6 @@
  */
 module.exports = function isEven(num) {
   //Checks to see if the remainder of num is equal to 0. If so, num == true.
-  if (num % 2) { return true };
+  if (num % 2 === 0 ) { return true } else { return false };
 
 };
